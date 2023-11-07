@@ -1,6 +1,6 @@
 # Core Title Inheritance
 
-# Version 1.1.14
+# Version 1.1.15
 
 ## Credits
 Mod creator: SurrealNumber
